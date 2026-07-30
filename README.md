@@ -1,6 +1,6 @@
 # SpendWise
 
-Offline-first Personal Finance & Expense Management App built with Flutter.
+Personal Finance & Expense Management App built with Flutter.
 
 SpendWise is a cross-platform personal finance application for recording income
 and expenses, organizing transactions by category, setting monthly spending
@@ -399,8 +399,3 @@ Studying SpendWise demonstrates how to:
 - Preserve tab state with GoRouter and adapt navigation to screen width
 - Test calculation logic and reusable Flutter widgets
 
----
-
-## License
-
-This project is licensed under the MIT License.
