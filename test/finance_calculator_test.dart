@@ -1,5 +1,5 @@
-import 'package:expense_tracker/core/utils/finance_calculator.dart';
-import 'package:expense_tracker/features/transactions/models/finance_models.dart';
+import 'package:spend_wise/core/utils/finance_calculator.dart';
+import 'package:spend_wise/features/transactions/models/finance_models.dart';
 import 'package:flutter_test/flutter_test.dart';
 
 FinanceTransaction makeTransaction(

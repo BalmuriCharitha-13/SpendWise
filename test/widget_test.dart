@@ -1,5 +1,5 @@
-import 'package:expense_tracker/features/transactions/models/finance_models.dart';
-import 'package:expense_tracker/shared/widgets/transaction_tile.dart';
+import 'package:spend_wise/features/transactions/models/finance_models.dart';
+import 'package:spend_wise/shared/widgets/transaction_tile.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
 

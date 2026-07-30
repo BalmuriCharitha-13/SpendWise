@@ -1,4 +1,4 @@
-name: expense_tracker
+name: spend_wise
 description: SpendWise - an offline-first personal finance manager.
 publish_to: 'none'
 version: 1.0.0+1
